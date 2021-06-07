@@ -12,3 +12,10 @@ C:\Users\Christian.Rivero\Desktop\ProgrammingAssignment1\ProgrammingAssignment1\
 C:\Users\Christian.Rivero\Desktop\ProgrammingAssignment1\ProgrammingAssignment1\obj\Debug\ProgrammingAssignment1.csproj.CoreCompileInputs.cache
 C:\Users\Christian.Rivero\Desktop\ProgrammingAssignment1\ProgrammingAssignment1\obj\Debug\ProgrammingAssignment1.exe
 C:\Users\Christian.Rivero\Desktop\ProgrammingAssignment1\ProgrammingAssignment1\obj\Debug\ProgrammingAssignment1.pdb
+C:\Users\Christian.Rivero\Documents\GitHub\Introduction-to-C-Sharp-Programming-and-Unity\Week-1\Programming-Assignment-1\ProgrammingAssignment1-DONE\ProgrammingAssignment1\bin\Debug\ProgrammingAssignment1.exe.config
+C:\Users\Christian.Rivero\Documents\GitHub\Introduction-to-C-Sharp-Programming-and-Unity\Week-1\Programming-Assignment-1\ProgrammingAssignment1-DONE\ProgrammingAssignment1\bin\Debug\ProgrammingAssignment1.exe
+C:\Users\Christian.Rivero\Documents\GitHub\Introduction-to-C-Sharp-Programming-and-Unity\Week-1\Programming-Assignment-1\ProgrammingAssignment1-DONE\ProgrammingAssignment1\bin\Debug\ProgrammingAssignment1.pdb
+C:\Users\Christian.Rivero\Documents\GitHub\Introduction-to-C-Sharp-Programming-and-Unity\Week-1\Programming-Assignment-1\ProgrammingAssignment1-DONE\ProgrammingAssignment1\obj\Debug\ProgrammingAssignment1.csproj.AssemblyReference.cache
+C:\Users\Christian.Rivero\Documents\GitHub\Introduction-to-C-Sharp-Programming-and-Unity\Week-1\Programming-Assignment-1\ProgrammingAssignment1-DONE\ProgrammingAssignment1\obj\Debug\ProgrammingAssignment1.csproj.CoreCompileInputs.cache
+C:\Users\Christian.Rivero\Documents\GitHub\Introduction-to-C-Sharp-Programming-and-Unity\Week-1\Programming-Assignment-1\ProgrammingAssignment1-DONE\ProgrammingAssignment1\obj\Debug\ProgrammingAssignment1.exe
+C:\Users\Christian.Rivero\Documents\GitHub\Introduction-to-C-Sharp-Programming-and-Unity\Week-1\Programming-Assignment-1\ProgrammingAssignment1-DONE\ProgrammingAssignment1\obj\Debug\ProgrammingAssignment1.pdb

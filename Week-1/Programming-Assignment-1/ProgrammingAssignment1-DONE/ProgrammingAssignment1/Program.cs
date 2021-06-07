@@ -40,7 +40,7 @@ namespace ProgrammingAssignment1
                 // course add more space between the
                 // comments as needed
 
-                float delta1, delta2, m, angle, hypotenuse; //p:pendient.
+                float delta1, delta2, angle, hypotenuse;
 
                 delta1 = point2X - point1X;
                 delta2 = point2Y - point1Y;
